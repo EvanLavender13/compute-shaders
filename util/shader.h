@@ -19,6 +19,7 @@ struct Shader
 
     int textureid;
     int framebufferid;
+    int storage;
 
     int utexture;
     int udelta;
